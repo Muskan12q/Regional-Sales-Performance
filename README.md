@@ -5,7 +5,7 @@ The objective was to build a business dashboard that helps a Sales Manager under
 
 The dashboard was designed for a non-technical business user, with a focus on simple visuals, clear KPIs, and actionable business insights.
 
-🎯 Business Problem
+ Business Problem
 
 The company operates across multiple regions, product categories, and Regional Managers. Each Regional Manager is responsible for specific product category targets.
 
@@ -22,7 +22,7 @@ Which areas require management attention?
 
 This project addresses these questions through an interactive Power BI dashboard.
 
-📌 Key Areas Covered
+ Key Areas Covered
 Overall Business Performance
 Sales
 Profit
@@ -56,7 +56,7 @@ Year-over-Year change in delays
 Region-wise delays
 Category-wise delays
 Shipping-related performance
-📈 Year-over-Year Analysis
+ Year-over-Year Analysis
 
 A major focus of the dashboard is comparing the current year with the previous year.
 
@@ -71,8 +71,42 @@ Delivery Delays
 
 Percentage change is used to make it easier for the Sales Manager to understand whether performance has improved or declined.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 Power BI
 DAX
 Power Query
 Microsoft Excel
+
+Dashboard
+
+The dashboard is structured as a business story:
+
+1. Overall Business Performance
+Provides a quick view of the company's overall health.
+
+2. Regional & Manager Performance
+Helps identify regions and Regional Managers driving or affecting performance.
+
+3. Target Achievement
+Shows whether assigned category targets are being achieved.
+
+4. Returns & Delivery Analysis
+Highlights operational issues that may affect customer experience and business performance.
+
+5. Key Risks & Action Areas
+Brings attention to areas requiring further investigation or management action.
+
+Key Business Questions Answered
+
+The dashboard helps management understand:
+
+Whether sales and profit are improving compared with last year
+Which regions are contributing to overall performance
+Which Regional Managers are achieving their assigned targets
+Which categories are contributing to target gaps
+Whether strong overall performance is hiding category-level underperformance
+Whether returns are increasing or decreasing
+Whether delivery delays are becoming a business risk
+Where management attention may be required
+
+
