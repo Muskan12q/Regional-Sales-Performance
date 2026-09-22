@@ -1,4 +1,11 @@
 # Regional-Sales-Performance
+
+##Dashboard Presentation
+
+A short business-focused walkthrough of the Power BI dashboard, explaining the key performance trends, Year-over-Year changes, target achievement, returns, delivery delays, and important business observations.
+
+▶️ Video Explanation: https://drive.google.com/file/d/1rdurbDiWxchs_BLb1PbnmTimpMALkq9y/view?usp=drive_link
+
 Power BI dashboard analyzing regional sales, manager performance, category targets, YoY growth, returns, profit, and delivery delays.
 
 The objective was to build a business dashboard that helps a Sales Manager understand overall business health, compare performance with the previous year, track sales against targets, identify underperforming regions and categories, and monitor operational issues such as product returns and delivery delays.
